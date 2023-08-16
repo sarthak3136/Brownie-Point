@@ -8,8 +8,6 @@ Brownie Point is a tool designed to track and manage student involvement, engage
 
 * *Last Modification Date*: 10 APRIL 2023
 
-* *Backend URL*:
-
 * *Group Gitlab URL*: https://git.cs.dal.ca/courses/2023-winter/csci-5308/group03
 
 ## Features
